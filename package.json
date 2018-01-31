@@ -1,0 +1,35 @@
+{
+  "name": "@bmp/render",
+  "version": "0.0.1",
+  "description": "Rendering stuffs",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lohfu/render.git"
+  },
+  "keywords": [
+    "express",
+    "render",
+    "jsx",
+    "preact",
+    "react"
+  ],
+  "author": "Linus Miller <lohfu@lohfu.io> (https://lohfu.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lohfu/render/issues"
+  },
+  "homepage": "https://github.com/lohfu/render#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
